@@ -166,3 +166,4 @@ function result() {
 }
 // pakt de random knop
 randomize.addEventListener('click', result);
+// nice
